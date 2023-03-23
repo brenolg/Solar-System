@@ -1,13 +1,59 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Solar System
+Este projeto consiste em uma aplicação web que simula o movimento dos planetas do sistema solar.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Funcionalidades
+* Visualizar os planetas em escala e posição relativa ao sol
+* Visualizar todos os planetas do sistema solar renderizados na tela;
+* Visualizar todas as cartas com informações sobre missões espaciais;
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## Tecnologias utilizadas
+* HTML
+* CSS
+* JavaScript
+* React
+
+## Instalação do projeto localmente
+Para instalar o projeto localmente, siga os seguintes passos:
+
+Clone o repositório do GitHub
+
+```javascript
+  git clone git clone git@github.com:brenolg/solar-system.git
+```
+Instale as dependências
+
+```javascript
+ npm install
+```
+Inicie a aplicação
+
+```javascript
+  npm start
+```
+Acesse a aplicação no navegador: http://localhost:3000
+
+
+## Requisitos
+1. Crie um componente chamado `Header`
+
+2. Crie um componente chamado `SolarSystem`
+
+3. Crie um componente chamado `Title`
+
+4. Renderize o componente `Title` dentro do componente `SolarSystem`
+
+5. Crie um componente chamado `PlanetCard`
+
+6. Renderize uma lista com os planetas do Sistema Solar
+
+7. Crie um componente chamado `Missions`
+
+9. Crie um componente chamado `MissionCard`
+
+10. Renderize uma lista com as missões espaciais
+
+8. Renderize o componente `Title` dentro do componente `Missions`
+
+## Agradecimentos
+Agradecemos à Trybe por nos proporcionar essa oportunidade de aprendizado e desenvolvimento de nossas habilidades como desenvolvedores web.
