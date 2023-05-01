@@ -1,17 +1,20 @@
 # Projeto Solar System
-Este projeto consiste em uma aplicação web que simula o movimento dos planetas do sistema solar.
+
+Aplicação usando React, que consiste em uma uma página para listar todos os planetas do Sistema Solar e também algumas das missões espaciais mais conhecidas.
 
 ## Funcionalidades
-* Visualizar os planetas em escala e posição relativa ao sol
+
 * Visualizar todos os planetas do sistema solar renderizados na tela;
 * Visualizar todas as cartas com informações sobre missões espaciais;
 
 
 ## Tecnologias utilizadas
+
+* React
+* Props
+* Componentes
 * HTML
 * CSS
-* JavaScript
-* React
 
 ## Instalação do projeto localmente
 Para instalar o projeto localmente, siga os seguintes passos:
@@ -19,7 +22,7 @@ Para instalar o projeto localmente, siga os seguintes passos:
 Clone o repositório do GitHub
 
 ```javascript
-  git clone git clone git@github.com:brenolg/solar-system.git
+  git clone git@github.com:brenolg/Solar-System.git
 ```
 Instale as dependências
 
