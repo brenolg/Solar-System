@@ -22,7 +22,7 @@ Para instalar o projeto localmente, siga os seguintes passos:
 Clone o repositório do GitHub
 
 ```javascript
-  git clone git@github.com:brenolg/Solar-System.git
+  git clone git@github.com:brenolg/Solar-System-REACT.git
 ```
 Instale as dependências
 
